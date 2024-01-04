@@ -4,10 +4,8 @@ Data sumber	: https://cekdptonline.kpu.go.id/
 
 dibuat		: tim Gurita Langit
 Kapten Ibnu Budi R. 
- 
 Location	: Bakungan Distric Of Osing Banyuwangi East JAVA
 Date Oprek	: 12 Desember 2023 - 11:15 PM
-
 ====
 cara penggunakan manual ketik saja : node cari.js --nik '3510153009810003'
 versi		: 1.0
@@ -17,11 +15,9 @@ versi		: 1.0
 -fix typing keyboard like user human input ( scurity reason )
 -estrak data dan kirim ke API --> whatsapp request ( next )
 -loop permimtaan data request client
-
 === todo ==
 -integrasi dengan framework laravel upload foto ktp scan dan auto input ke form tersimpan dalam database
--integrasi dengan aplikasi android melalui API Private 
-
+-integrasi dengan aplikasi android melalui API Private
 == kelemahan / kekurangan ==
 tidak bisa menggunakan IP luar indonesia ( proxy )
 
