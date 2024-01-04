@@ -7,7 +7,7 @@ Data sumber	: https://cekdptonline.kpu.go.id/
 dibuat		: tim Gurita Langit
 			: Kapten Ibnu Budi R. 
 
-Location	: Bakungan Distric Of Osing
+Location	: Bakungan Distric Of Osing -  Banyuwangi EAST JAVA  - INDONESIA
 Date Oprek	: 12 Desember 2023 - 11:15 PM
 
 ====
