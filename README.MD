@@ -1,4 +1,4 @@
-tema 		: Periksa NIK DPT Pemilu 2024
+#tema 		: Periksa NIK DPT Pemilu 2024
 
 Data sumber	: https://cekdptonline.kpu.go.id/
 
@@ -23,3 +23,4 @@ tidak bisa menggunakan IP luar indonesia ( proxy )
 
 npx @puppeteer/browsers install chromedriver@116.0.5793.0
 npx puppeteer browsers install chrome 
+#
