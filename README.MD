@@ -1,7 +1,5 @@
 #tema 		: Periksa NIK DPT Pemilu 2024
-
 Data sumber	: https://cekdptonline.kpu.go.id/
-
 dibuat		: tim Gurita Langit
 Kapten Ibnu Budi R. 
 Location	: Bakungan Distric Of Osing Banyuwangi East JAVA
